@@ -1,4 +1,4 @@
-# Santorini1
+# Santorini
 
 Hi Guys!!
 
